@@ -1,0 +1,29 @@
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\bin\Debug\oguzhan.exe.config
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\bin\Debug\oguzhan.exe
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\bin\Debug\oguzhan.pdb
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\obj\Debug\oguzhan.csprojResolveAssemblyReference.cache
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\obj\Debug\oguzhan.Form1.resources
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\obj\Debug\oguzhan.Properties.Resources.resources
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\obj\Debug\oguzhan.csproj.GenerateResource.Cache
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\obj\Debug\oguzhan.exe
+c:\users\metin\documents\visual studio 2015\Projects\oguzhan\oguzhan\obj\Debug\oguzhan.pdb
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\bin\Debug\oguzhan.exe.config
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\bin\Debug\oguzhan.exe
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\bin\Debug\oguzhan.pdb
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\obj\Debug\oguzhan.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\obj\Debug\oguzhan.Form1.resources
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\obj\Debug\oguzhan.Properties.Resources.resources
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\obj\Debug\oguzhan.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\obj\Debug\oguzhan.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\obj\Debug\oguzhan.exe
+C:\Users\Oğuzhan Baran\Desktop\oguzhan\oguzhan\obj\Debug\oguzhan.pdb
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\bin\Debug\oguzhan.exe.config
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\bin\Debug\oguzhan.exe
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\bin\Debug\oguzhan.pdb
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\obj\Debug\oguzhan.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\obj\Debug\oguzhan.Form1.resources
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\obj\Debug\oguzhan.Properties.Resources.resources
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\obj\Debug\oguzhan.csproj.GenerateResource.Cache
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\obj\Debug\oguzhan.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\obj\Debug\oguzhan.exe
+C:\Users\Oğuzhan Baran\Desktop\C#\4 tarafı kontrol\oguzhan\obj\Debug\oguzhan.pdb
